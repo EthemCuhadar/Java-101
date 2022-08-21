@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37e9d53d-79de-44d2-8474-c9ccbeaf96ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/body_mass_index_calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/market_shopping_price_calculator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java101/body_mass_index_calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java101/body_mass_index_calculator/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,20 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.body_mass_index_calculator.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="market_shopping_price_calculator.Main" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="market_shopping_price_calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="body_mass_index_calculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="body_mass_index_calculator.Main" />
       <module name="Java101" />
@@ -95,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="value_added_tax_calculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="value_added_tax_calculator.Main" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="value_added_tax_calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.body_mass_index_calculator.Main" />
         <item itemvalue="Application.perimeter_and_are_calculator_for_circle.Main" />
         <item itemvalue="Application.taximeter_calculator.Main" />
         <item itemvalue="Application.hypotenuse_calculator.Main" />
-        <item itemvalue="Application.value_added_tax_calculator.Main" />
       </list>
     </recent_temporary>
   </component>
