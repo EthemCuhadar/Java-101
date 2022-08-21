@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37e9d53d-79de-44d2-8474-c9ccbeaf96ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/taximeter_calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/perimeter_and_are_calculator_for_circle/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.taximeter_calculator.Main">
+  <component name="RunManager" selected="Application.perimeter_and_are_calculator_for_circle.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="average_note_calculator.Main" />
       <module name="Java101" />
@@ -55,19 +55,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableTypes" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="hypotenuse_calculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hypotenuse_calculator.Main" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hypotenuse_calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perimeter_and_are_calculator_for_circle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perimeter_and_are_calculator_for_circle.Main" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="perimeter_and_are_calculator_for_circle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.perimeter_and_are_calculator_for_circle.Main" />
         <item itemvalue="Application.taximeter_calculator.Main" />
         <item itemvalue="Application.hypotenuse_calculator.Main" />
         <item itemvalue="Application.value_added_tax_calculator.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.VariableTypes" />
       </list>
     </recent_temporary>
   </component>
